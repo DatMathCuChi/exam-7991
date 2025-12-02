@@ -1,0 +1,5 @@
+{
+  "name": "Math Exam Generator",
+  "description": "Professional Math exam generator using Gemini AI with 3 difficulty levels (NB, TH, VD).",
+  "requestFramePermissions": []
+}
