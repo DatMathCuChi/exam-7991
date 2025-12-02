@@ -1,9 +1,3 @@
-{
-  "version": 2,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
-}
+git rm vercel.json
+git commit -m "Remove vercel.json, let Vercel auto-detect Vite"
+git push
